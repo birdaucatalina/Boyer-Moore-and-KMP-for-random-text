@@ -1,0 +1,54 @@
+Test number 1
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 2
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 3
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 4
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 5
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 6
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 7
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 8
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 9
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+Test number 10
+Knuth-Morris-Pratt found at index: -1
+Knuth-Morris-Pratt LPS found at index: -1
+Boyer-Moore found at index: -1
+
+T = 10	M = 8	N = 12350202
+Average count Knuth-Morris-Pratt: 		12350202
+Average count Knuth-Morris-Pratt Lps: 	12825147
+Average count Boyer-Moore: 			1851982
